@@ -12,6 +12,8 @@ More updates to come :)
 
 To Do: Build the firmware for the 2.1.x bugfix release of Marlin
 
+***Updates***
+
 5/26/23:
     
    Was looking through advanced config file and stumbled across some games. The new bin file Ender3Max4.2.2Games is the same firmware just with the games added in. 
