@@ -12,7 +12,7 @@ More updates to come :)
 
 To Do: Build the firmware for the 2.1.x bugfix release of Marlin
 
-***Updates:***
+<ins>***Updates:***</ins>
 
   **5/26/23:**
     
