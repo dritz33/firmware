@@ -9,3 +9,6 @@ This is a test to see if this firmware will allow for stopping and starting prin
 Download the Marlin source code at: https://marlinfw.org/meta/download/
 
 More updates to come :)
+
+To Do: Build the firmware for the 2.1.x bugfix release of Marlin
+       
