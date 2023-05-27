@@ -36,6 +36,6 @@ To Do: Build the firmware for the 2.1.x bugfix release of Marlin
     
    *As far as I know the games will only work with printers that have a non-touch screen with a knob. Have not had the chance to test just yet if this will work with touch screen printers. Stay tuned!*
    
-   #Credits
+   # Credits
    TH3D for the LCD files required to make the firmware work! https://github.com/th3dstudio/UnifiedFirmware
        
