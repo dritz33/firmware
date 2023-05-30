@@ -41,4 +41,5 @@ To Do: Build the firmware for the 2.1.x bugfix release of Marlin
    
    # Credits
    TH3D for the LCD files required to make the firmware work! https://github.com/th3dstudio/UnifiedFirmware
+   Jyers for the base Ender 3 v2 Marlin fork! https://github.com/Jyers/Marlin/releases
        
