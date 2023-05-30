@@ -24,7 +24,10 @@ To Do: Build the firmware for the 2.1.x bugfix release of Marlin
 
 <ins>***Updates***</ins>
 
-  **5/27/23:**
+**5/30/23:**
+ During testing found the LCD would randomly reset itself. Changed the .bin to be based off of Jyers firmware for the Ender 3 V2. Changed the bed size and machine name, and of course uncommented host actions and m73 options in advanced config. Uploading new file as firmware-test.bin.
+
+ **5/27/23:**
   Added LCD files and readme from TH3D Unified Firmware. Flashing the .bin alone may cause your display to not work. 
   
   
